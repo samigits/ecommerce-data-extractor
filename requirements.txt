@@ -7,3 +7,5 @@ jupyter
 venv
 dvc
 scipy
+re
+os

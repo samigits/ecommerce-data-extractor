@@ -9,3 +9,6 @@ dvc
 scipy
 re
 os
+transformers
+datasets
+seqeval
